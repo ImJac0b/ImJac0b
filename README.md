@@ -1,7 +1,7 @@
 # 💫 About Me:
-<br><br>👋 👋 Hi there! I'm Jacob Jimenez but you can call me Jayco, a Full Stack Developer, Software Analyst, and UX/UI Designer with over 5 years of experience. My passion lies in building seamless, high-performing web and mobile applications that offer both robust functionality and a user-centric design.<br>
-Throughout my career, I’ve worked on diverse projects, from dynamic e-commerce platforms to complex business applications, always ensuring a balance between cutting-edge technology and great user experiences. I'm proficient in modern technologies like React, Angular, and Node.js, and I bring a keen eye for design, leveraging tools like Figma to craft intuitive and engaging user interfaces.<br>
-I'm always eager to take on new challenges, improve my skills, and collaborate with teams that are equally passionate about creating impactful digital products.<br> If you're looking for someone who can bridge the gap between development and design, let's connect!<br>
+<br><br>👋 Hi there! I'm Jacob Jimenez but you can call me Jayco, a Full Stack Developer, Software Analyst, and UX/UI Designer with over 5 years of experience. My passion lies in building seamless, high-performing web and mobile applications that offer both robust functionality and a user-centric design.<br><br>
+Throughout my career, I’ve worked on diverse projects, from dynamic e-commerce platforms to complex business applications, always ensuring a balance between cutting-edge technology and great user experiences. I'm proficient in modern technologies like React, Angular, and Node.js, and I bring a keen eye for design, leveraging tools like Figma to craft intuitive and engaging user interfaces.I'm always eager to take on new challenges, improve my skills, and collaborate with teams that are equally passionate about creating impactful digital products.
+<br><br> If you're looking for someone who can bridge the gap between development and design, let's connect!<br>
 
 
 ## 🌐 Socials:
